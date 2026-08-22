@@ -122,5 +122,11 @@ harmoData([
       "https://ce97d0b040.clvaw-cdnwnd.com/63d00d6f221a2117a21962c3d9ff1f63/200002373-95cd295cd4/Plak%C3%A1t%20AZ.webp?ph=ce97d0b040",
       "https://ce97d0b040.clvaw-cdnwnd.com/63d00d6f221a2117a21962c3d9ff1f63/200002375-2a4f62a4f7/Propozice%20AZ.webp?ph=ce97d0b040"
     ]
+  },
+  {
+    "title": "Výjezd na školení 12.-13.6. pod vedením Mgr. Veroniky Miškové Budokan Brno",
+    "date": "2026-06-12",
+    "cat": "all",
+    "props": []
   }
 ]);
