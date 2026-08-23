@@ -146,5 +146,11 @@ harmoData([
     "date": "2026-08-17",
     "cat": "all",
     "props": []
+  },
+  {
+    "title": "Zkoušky technické vyspělosti ČSKGr",
+    "date": "2026-08-21",
+    "cat": "all",
+    "props": []
   }
 ]);
