@@ -152,5 +152,11 @@ harmoData([
     "date": "2026-08-21",
     "cat": "all",
     "props": []
+  },
+  {
+    "title": "Letní Beginner Cup 2026 disciplína Karate Agility Challenge",
+    "date": "2026-08-20",
+    "cat": "all",
+    "props": []
   }
 ]);
