@@ -140,5 +140,11 @@ harmoData([
     "date": "2026-07-20",
     "cat": "all",
     "props": []
+  },
+  {
+    "title": "Letní soustředění a příměstský karate tábor Valašské Klobouky  17.-21.8.",
+    "date": "2026-08-17",
+    "cat": "all",
+    "props": []
   }
 ]);
