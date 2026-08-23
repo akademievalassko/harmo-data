@@ -134,5 +134,11 @@ harmoData([
     "date": "2026-06-26",
     "cat": "all",
     "props": []
+  },
+  {
+    "title": "Atleticko-gymnastický příměstský tábor Valašské Klobouky 20.-24.7. za účasti Mgr. Niky Jáňové",
+    "date": "2026-07-20",
+    "cat": "all",
+    "props": []
   }
 ]);
