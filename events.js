@@ -128,5 +128,11 @@ harmoData([
     "date": "2026-06-12",
     "cat": "all",
     "props": []
+  },
+  {
+    "title": "Výjezd na školení 26.-27.6. pod vedením Mgr. Veroniky Miškové Budokan Brno",
+    "date": "2026-06-26",
+    "cat": "all",
+    "props": []
   }
 ]);
