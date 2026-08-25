@@ -168,7 +168,7 @@ harmoData([
     "props": []
   },
   {
-    "title": "Náborová akce_Nástup do kroužku ATLETICKÁ PŘÍPRAVKA 8-9 LET",
+    "title": "Náborová akce_Nástup do kroužku v 16:00 ATLETICKÁ PŘÍPRAVKA 8-9 LET",
     "date": "2026-09-24",
     "cat": "kids",
     "props": []
