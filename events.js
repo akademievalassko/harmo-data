@@ -166,5 +166,11 @@ harmoData([
     "date": "2026-09-24",
     "cat": "kids",
     "props": []
+  },
+  {
+    "title": "Náborová akce_Nástup do kroužku ATLETICKÁ PŘÍPRAVKA 8-9 LET",
+    "date": "2026-09-24",
+    "cat": "kids",
+    "props": []
   }
 ]);
