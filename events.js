@@ -190,5 +190,11 @@ harmoData([
     "date": "2026-09-21",
     "cat": "kids",
     "props": []
+  },
+  {
+    "title": "Náborová akce_Nástup do kroužku v 17:00 GYMNASTIKA POKROČILÍ OD 10 LET",
+    "date": "2026-09-21",
+    "cat": "kids",
+    "props": []
   }
 ]);
