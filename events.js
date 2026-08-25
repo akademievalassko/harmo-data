@@ -226,5 +226,11 @@ harmoData([
     "date": "2026-09-23",
     "cat": "kids",
     "props": []
+  },
+  {
+    "title": "Náborová akce_Nástup do kroužku v 16:00 SEBEOBRANA OD 15 LET",
+    "date": "2026-09-25",
+    "cat": "kids",
+    "props": []
   }
 ]);
