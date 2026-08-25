@@ -220,5 +220,11 @@ harmoData([
     "date": "2026-09-24",
     "cat": "kids",
     "props": []
+  },
+  {
+    "title": "Náborová akce_Nástup do kroužku v 17:00 SEBEOBRANA (JUDO & JIU/JITSU) OD 12 LET",
+    "date": "2026-09-23",
+    "cat": "kids",
+    "props": []
   }
 ]);
