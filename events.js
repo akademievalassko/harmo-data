@@ -160,5 +160,11 @@ harmoData([
     "props": [
       "https://ce97d0b040.clvaw-cdnwnd.com/63d00d6f221a2117a21962c3d9ff1f63/200002385-0c6c80c6ca/Olomouck%C3%BD-Beginner-cup-2026-vol_4.webp?ph=ce97d0b040"
     ]
+  },
+  {
+    "title": "Náborová akce_Nástup do kroužku SPORTOVNÍ PŘÍPRAVKA 5-7 LET",
+    "date": "2026-09-24",
+    "cat": "kids",
+    "props": []
   }
 ]);
