@@ -196,5 +196,11 @@ harmoData([
     "date": "2026-09-21",
     "cat": "kids",
     "props": []
+  },
+  {
+    "title": "Náborová akce_Nástup do kroužku v 17:00 VOLEJBAL 9-12 LET",
+    "date": "2026-09-22",
+    "cat": "kids",
+    "props": []
   }
 ]);
