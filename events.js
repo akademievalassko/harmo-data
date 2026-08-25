@@ -214,5 +214,11 @@ harmoData([
     "date": "2026-09-24",
     "cat": "kids",
     "props": []
+  },
+  {
+    "title": "Náborová akce_Nástup do kroužku v 17:00 BOX & FITBOX OD 11 LET",
+    "date": "2026-09-24",
+    "cat": "kids",
+    "props": []
   }
 ]);
