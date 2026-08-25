@@ -232,5 +232,11 @@ harmoData([
     "date": "2026-09-25",
     "cat": "kids",
     "props": []
+  },
+  {
+    "title": "Pohár talentů a Národní pohár karate ČSKGr, sportovní hala Gymnázium Val. Klobouky",
+    "date": "2026-11-07",
+    "cat": "all",
+    "props": []
   }
 ]);
