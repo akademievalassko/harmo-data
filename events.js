@@ -208,5 +208,11 @@ harmoData([
     "date": "2026-09-24",
     "cat": "kids",
     "props": []
+  },
+  {
+    "title": "Náborová akce_Nástup do kroužku v 16:45 KARATE OD 7. KYU",
+    "date": "2026-09-24",
+    "cat": "kids",
+    "props": []
   }
 ]);
