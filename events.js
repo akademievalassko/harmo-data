@@ -162,7 +162,7 @@ harmoData([
     ]
   },
   {
-    "title": "Náborová akce_Nástup do kroužku SPORTOVNÍ PŘÍPRAVKA 5-7 LET",
+    "title": "Náborová akce_Nástup do kroužku v 15:00 SPORTOVNÍ PŘÍPRAVKA 5-7 LET",
     "date": "2026-09-24",
     "cat": "kids",
     "props": []
