@@ -178,5 +178,11 @@ harmoData([
     "date": "2026-09-24",
     "cat": "kids",
     "props": []
+  },
+  {
+    "title": "Náborová akce_Nástup do kroužku v 15:00 GYMNASTICKÁ PŘÍPRAVKA 5-7 LET",
+    "date": "2026-09-21",
+    "cat": "kids",
+    "props": []
   }
 ]);
