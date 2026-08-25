@@ -202,5 +202,11 @@ harmoData([
     "date": "2026-09-22",
     "cat": "kids",
     "props": []
+  },
+  {
+    "title": "Náborová akce_Nástup do kroužku v 16:00 KARATE ZAČÁTEČNÍCI + PŘÍPRAVKA OD 6 LET",
+    "date": "2026-09-24",
+    "cat": "kids",
+    "props": []
   }
 ]);
