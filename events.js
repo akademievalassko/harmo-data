@@ -246,5 +246,11 @@ harmoData([
     "props": [
       "https://ce97d0b040.clvaw-cdnwnd.com/63d00d6f221a2117a21962c3d9ff1f63/200002454-804f0804f2/Sn%C3%ADmek%20obrazovky_22-9-2026_161630_www.email.cz.webp?ph=ce97d0b040"
     ]
+  },
+  {
+    "title": "1.kolo Národní pohár Karate Beginner Goju-Ryu a 1.kolo Národní pohár Karate Goju-Ryu _ sport. hala Gymnázia Valašské Klobouky",
+    "date": "2026-11-07",
+    "cat": "kids",
+    "props": []
   }
 ]);
