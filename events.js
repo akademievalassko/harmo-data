@@ -248,8 +248,8 @@ harmoData([
     ]
   },
   {
-    "title": "Podzimní soustředění Karate v Brně 1.-4. 10. 2026 _ příprava na Národní pohár",
-    "date": "2026-10-04",
+    "title": "Podzimní soustředění Karate v Brně 9.-11. 10. 2026 _ příprava na Národní pohár",
+    "date": "2026-10-11",
     "cat": "kids",
     "props": [
       "https://ce97d0b040.clvaw-cdnwnd.com/63d00d6f221a2117a21962c3d9ff1f63/200002464-3290532907/soust%C5%99ed%C4%9Bn%C3%AD%20podzim%202026.webp?ph=ce97d0b040"
